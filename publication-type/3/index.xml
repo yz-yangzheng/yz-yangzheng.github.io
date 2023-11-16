@@ -5,7 +5,7 @@
     <link>https://yz-yangzheng.github.io/publication-type/3/</link>
       <atom:link href="https://yz-yangzheng.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yz-yangzheng.github.io/images/icon_hu14bf0854cbd24405c014cb7130b85762_312058_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Knowledge Spillover from Green FDI: Evidence from Green Innovation in China</title>
       <link>https://yz-yangzheng.github.io/publication/greenfdijmp/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://yz-yangzheng.github.io/publication/greenfdijmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-carbon Innovation Spillover Effects through Corporate Ownership Network: Evidence from Emission Trading Scheme in China</title>
+      <link>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carbon Leakage within Firm Ownership Networks</title>
+      <link>https://yz-yangzheng.github.io/publication/chinaetsleakage/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yz-yangzheng.github.io/publication/chinaetsleakage/</guid>
       <description></description>
     </item>
     
@@ -33,22 +49,6 @@
       <link>https://yz-yangzheng.github.io/publication/chinaetscompetitive/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://yz-yangzheng.github.io/publication/chinaetscompetitive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carbon Leakage within Firm Ownership Networks</title>
-      <link>https://yz-yangzheng.github.io/publication/chinaetsleakage/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yz-yangzheng.github.io/publication/chinaetsleakage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-carbon Innovation Spillover through Corporate Ownership Network: Evidence from Emission Trading Scheme in China</title>
-      <link>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</link>
-      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</guid>
       <description></description>
     </item>
     
