@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Te Lai | Yang Zheng</title>
+    <link>https://yz-yangzheng.github.io/author/te-lai/</link>
+      <atom:link href="https://yz-yangzheng.github.io/author/te-lai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Te Lai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>https://yz-yangzheng.github.io/images/icon_hud971217a8914782e7185535281508fbd_432933_512x512_fill_lanczos_center_3.png</url>
+      <title>Te Lai</title>
+      <link>https://yz-yangzheng.github.io/author/te-lai/</link>
+    </image>
+    
+    <item>
+      <title>Global Carbon Market and Industrial Decarbonization Innovation</title>
+      <link>https://yz-yangzheng.github.io/publication/iea_ctp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yz-yangzheng.github.io/publication/iea_ctp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

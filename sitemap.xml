@@ -2,82 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yz-yangzheng.github.io/publication-type/3/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/authors/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication/greenfdijmp/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication_types/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/yang-zheng/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication/ftsegr/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/misato-sato/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/myra-mohnen/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication/chinaetscompetitive/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/jingbo-cui/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/junjie-zhang/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/dong-xu/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/jing-dai/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yz-yangzheng.github.io/publication/chinaetsleakage/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/chunhua-wang/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/author/zhenxuan-wang/</loc>
-    <lastmod>2022-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yz-yangzheng.github.io/publication-type/2/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yz-yangzheng.github.io/publication/pnas_2021/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yz-yangzheng.github.io/publication/aea_pp_2018/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/chinaetsinnovspillover/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/chinaetscompetitive/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/grtech/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/greenfdi/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/iea_ctp/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication-type/2/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication-type/3/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/authors/</loc>
   </url><url>
     <loc>https://yz-yangzheng.github.io/categories/</loc>
   </url><url>
+    <loc>https://yz-yangzheng.github.io/author/chunhua-wang/</loc>
+  </url><url>
     <loc>https://yz-yangzheng.github.io/courses/</loc>
   </url><url>
+    <loc>https://yz-yangzheng.github.io/author/dong-xu/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/jing-dai/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/jingbo-cui/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/junjie-zhang/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/misato-sato/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/myra-mohnen/</loc>
+  </url><url>
     <loc>https://yz-yangzheng.github.io/post/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/publication/</loc>
   </url><url>
     <loc>https://yz-yangzheng.github.io/talk/</loc>
   </url><url>
     <loc>https://yz-yangzheng.github.io/tags/</loc>
   </url><url>
+    <loc>https://yz-yangzheng.github.io/author/te-lai/</loc>
+  </url><url>
     <loc>https://yz-yangzheng.github.io/author/yang-zheng/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/yang-zheng/</loc>
+  </url><url>
+    <loc>https://yz-yangzheng.github.io/author/zhenxuan-wang/</loc>
   </url>
 </urlset>
